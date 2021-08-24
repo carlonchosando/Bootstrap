@@ -1,0 +1,44 @@
+#main{
+    background-color:#85f294;
+    height: 1600px;
+}
+
+#cabecera{
+    height: 80px;
+    background-color:#5746f0;
+}
+
+#logo{
+    background-color:#d16be6
+}
+#botonera{
+    background-color:#603464;
+}
+
+
+
+
+#presentacion{
+    height: 160px;
+    background-color:#698cee;
+}
+
+#tecnologias{
+    height: 160px;
+    background-color:#aec2fa;
+}
+
+#acerca{
+    height: 160px;
+    background-color:#0b3199;
+}
+
+#contacto{
+    height: 160px;
+    background-color:#1b2541;
+}
+
+#pie{
+    height: 100px;
+    background-color:#050505;
+}
