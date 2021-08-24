@@ -1,11 +1,10 @@
-#main{
-    background-color:#85f294;
-    height: 1600px;
+#main{    
+    height: auto;
 }
 
 #cabecera{
-    height: 80px;
-    background-color:#5746f0;
+    height: 4em;
+    background-color:#fafafa;
 }
 
 #logo{
@@ -15,30 +14,54 @@
     background-color:#603464;
 }
 
-
-
-
 #presentacion{
-    height: 160px;
-    background-color:#698cee;
+    height: 15em;
+    
+}
+
+#perfilmio{
+    background-color:#a8e0fd;
+    
+}
+
+#nombre{
+    background-color:#a9878d;
+   
 }
 
 #tecnologias{
-    height: 160px;
-    background-color:#aec2fa;
+    height: 6em;       
+}
+
+#tecnolog{
+    background-color:#e94e4e;
 }
 
 #acerca{
-    height: 160px;
-    background-color:#0b3199;
+    height: 15em;       
+}
+
+#a1{
+    background-color:#4af307;
+}
+
+#a2{
+    background-color:#23b3df;
 }
 
 #contacto{
-    height: 160px;
+    height: 15em;
     background-color:#1b2541;
 }
 
+#cont01{
+    background-color:#771b1b;
+}
+#cont02{
+    background-color:#04b32a;
+}
+
 #pie{
-    height: 100px;
+    height: 6em;
     background-color:#050505;
 }
