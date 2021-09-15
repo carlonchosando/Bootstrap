@@ -3,65 +3,98 @@
 }
 
 #cabecera{
-    height: 4em;
-    background-color:#fafafa;
-}
-
-#logo{
-    background-color:#d16be6
+    height: 60px;   
+    position: sticky;
+    top: 0;
+    background-color: rgb(214, 214, 214);
+    filter:opacity(80%);
 }
 #botonera{
-    background-color:#603464;
-}
+   color: black;
 
+}
 #presentacion{
-    height: 15em;
-    
+    height: auto;
+    margin-top: 30px;   
 }
-
 #perfilmio{
-    background-color:#a8e0fd;
-    
+    color: black;
+    height: auto;
+    text-align: center;    
 }
-
+.img-thumbnail{
+    border-radius: 999px;
+}
+.loSegundo{
+    text-align: center;
+}
+.parper{
+    padding: 20px;
+}
 #nombre{
-    background-color:#a9878d;
-   
+    color : black;
+    height: auto;
+    padding-left: 3em;
+    padding-right: 3em;
+    text-align: center;   
 }
-
-#tecnologias{
-    height: 6em;       
+#tecnologias{     
+     background-color: aquamarine;      
 }
-
-#tecnolog{
+#tecnolog1, #tecnolog2, #tecnolog4, #tecnolog5, #tecnolog6, #tecnolog7 {
     background-color:#e94e4e;
+    height: 1em;
 }
-
 #acerca{
-    height: 15em;       
+    margin-top: 10px;    
 }
-
-#a1{
-    background-color:#4af307;
+#a1{    
+    margin-top: 30px;
 }
-
 #a2{
     background-color:#23b3df;
 }
-
-#contacto{
-    height: 15em;
-    background-color:#1b2541;
-}
-
-#cont01{
-    background-color:#771b1b;
-}
-#cont02{
-    background-color:#04b32a;
-}
-
 #pie{
+    margin-top: 20px;
     height: 6em;
     background-color:#050505;
 }
+#form-box {    
+    height: 470px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #bfbfbf;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 13px 15px 10px #555555;
+  }  
+  #form-box ol li {
+    list-style-type: none;
+    padding-top: 10px;
+  }
+  
+  #form-box ol {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 20px;
+  }  
+  #contacto {
+    background-color: #fdfdff;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }  
+  #main-contacto {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    background-color: #ffffff;
+  }  
+  #form-name, #nombres2, #form-nombres, #form-textarea, #form-email, #form-last{
+    height: auto;
+    width: 100% ;
+    text-align: center;
+  }
+ 
