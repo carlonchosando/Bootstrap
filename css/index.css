@@ -24,13 +24,12 @@
 }
 .img-thumbnail{
     border-radius: 999px;
+    box-shadow: 13px 15px 10px #303030;
 }
-.loSegundo{
+.loSegundo, .parper{
     text-align: center;
-}
-.parper{
-    padding: 20px;
-}
+    text-shadow: 2px 3px 4px #303030;
+} 
 #nombre{    
     margin-top: 80px;;
     text-align: center;   
@@ -38,13 +37,12 @@
 .fit-image{
     width: 100%;
     object-fit: cover;
-    align-content: flex-end;    
-    }
-#tecnologias{     
-     background-color: aquamarine;      
+    align-content: flex-end;
+    border-radius: 30px;
+    box-shadow: 13px 15px 10px #303030;       
 }
-#tecnolog1, #tecnolog2, #tecnolog4, #tecnolog5, #tecnolog6, #tecnolog7 {
-    background-color:#e94e4e;
+
+#tecnolog1, #tecnolog2, #tecnolog4, #tecnolog5, #tecnolog6, #tecnolog7 {    
     height: 1em;
 }
 #acerca{
