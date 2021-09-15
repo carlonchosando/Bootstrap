@@ -55,15 +55,16 @@
     object-fit: cover; 
 }
 #a1{    
-    margin-top: 30px;
+    margin-top: 50px;
+    padding: 40px;
 }
 #a2{
-    background-color:#23b3df;
+    
 }
 
 #form-box {    
     height: 470px;
-    width: 100%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid #bfbfbf;
@@ -96,8 +97,10 @@
   }  
   #form-name, #nombres2, #form-nombres, #form-textarea, #form-email, #form-last{
     height: auto;
-    width: 100% ;
+    
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
   }
   #footer1 {
     margin-top: 20px;
