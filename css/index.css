@@ -31,13 +31,15 @@
 .parper{
     padding: 20px;
 }
-#nombre{
-    color : black;
-    height: auto;
-    padding-left: 3em;
-    padding-right: 3em;
+#nombre{    
+    margin-top: 80px;;
     text-align: center;   
 }
+.fit-image{
+    width: 100%;
+    object-fit: cover;
+    align-content: flex-end;    
+    }
 #tecnologias{     
      background-color: aquamarine;      
 }
@@ -48,17 +50,18 @@
 #acerca{
     margin-top: 10px;    
 }
+.fito-image{
+    margin-top: 100px;;
+    width: 100%;
+    object-fit: cover; 
+}
 #a1{    
     margin-top: 30px;
 }
 #a2{
     background-color:#23b3df;
 }
-#pie{
-    margin-top: 20px;
-    height: 6em;
-    background-color:#050505;
-}
+
 #form-box {    
     height: 470px;
     width: 100%;
@@ -96,5 +99,13 @@
     height: auto;
     width: 100% ;
     text-align: center;
+  }
+  #footer1 {
+    margin-top: 20px;
+    height: 90px;
+    background-color: #000000;
+    text-align: center;
+    color: #9ec1e3;
+    border-radius: 10px 10px 10px; 
   }
  
