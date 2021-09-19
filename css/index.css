@@ -11,7 +11,13 @@
 }
 #botonera{
    color: black;
-
+}
+#lectDown{
+  background-color: rgb(214, 214, 214);
+    filter:opacity(80%);
+}
+.colorando1{
+  background-color: rgb(7, 4, 212) !important;    
 }
 #presentacion{
     height: auto;
@@ -58,10 +64,6 @@
     margin-top: 50px;
     padding: 40px;
 }
-#a2{
-    
-}
-
 #form-box {    
     height: 470px;
     width: 80%;
