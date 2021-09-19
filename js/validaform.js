@@ -14,7 +14,7 @@ function validarIngreso() {
 }
 
 function validaNombre() {
-    if (nombre.value.trim() == "") {
+    if (nombre.value.trim() === "") {
         nombre.setCustomValidity("ingresá tu nombre de pila ")
         nombre.style.backgroundColor = "#f2b183"
     } else {
@@ -25,7 +25,7 @@ function validaNombre() {
 }
 
 function validaApellido() {
-    if (apellido.value.trim() == "") {
+    if (apellido.value.trim() === "") {
         apellido.setCustomValidity("ingresa tu apellido familiar")
         apellido.style.backgroundColor = "#f2b183"
     } else {
@@ -36,7 +36,7 @@ function validaApellido() {
 }
 
 function validaEmail() {
-    if (email.value.trim() == "") {
+    if (email.value.trim() === "") {
         email.setCustomValidity("ingresa tu correo electónico más utilizado")
         email.style.backgroundColor = "#f2b183"
     } else {
