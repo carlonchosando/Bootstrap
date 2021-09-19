@@ -1,4 +1,4 @@
-const nombre = document.getElementById('nombre');
+const nombre = document.getElementById('nombres');
 const apellido = document.getElementById("apellido");
 const email = document.getElementById("email");
 
