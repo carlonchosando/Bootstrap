@@ -20,8 +20,7 @@
   background-color: rgb(7, 4, 212) !important;    
 }
 #presentacion{
-    height: auto;
-       
+    height: auto;       
 }
 #perfilmio{
     color: rgb(51, 51, 51);
@@ -48,7 +47,7 @@
     border-radius: 30px;
     box-shadow: 13px 15px 10px #303030;       
 }
-#separadorE, #separadorB, #separadorD, #separadorA{
+#presentacion, #tecnologias, #separadorD, #contactos{
   height: 70px;
 }
 #tecnologias{
